@@ -1,6 +1,6 @@
 #!/bin/bash
 
-base_dir="flag_part2"
+base_dir="find_here"
 mkdir -p "$base_dir"
 current_dir="$base_dir"
 
