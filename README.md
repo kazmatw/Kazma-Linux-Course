@@ -51,6 +51,7 @@
         exit
         ```
     - 利用不安全的權限設定，讀取在根目錄僅限超級使用者唯讀的 `flag.txt`
+    - 請避免透過 `Dockerfile` 直接取得 flag 和設定
 - lab-scripts
   - 練習使用 vim 撰寫一份 shell scripts 並將不同格式的壓縮檔解壓縮，並印出包含 flag 的檔案內容
 - lab-hashcat 
