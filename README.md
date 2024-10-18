@@ -37,7 +37,7 @@
 - lab-basic
   - 練習使用 linux 內建指令有效率的找出分散的 flag 碎片
 - lab-grep
-  - 練習使用 `grep` 和 `find` 以及 CTF 解題技巧嘗試在複雜的檔案結構中有效率的找到目標
+  - 練習使用 `grep` 和 `find` 以及 CTF 解題技巧嘗試在複雜的檔案結構中有效率的找到被分成三段的 flag 碎片
 - lab-setuid
   - 建立環境
     - ```bash
