@@ -7,8 +7,8 @@ RUN echo "flag{what_time_is_it?}" > /flag.txt && \
     chmod 400 /flag.txt && \
     chown root:root /flag.txt
 
-RUN cp /bin/date /usr/local/bin/dates && \
-    chmod 4755 /usr/local/bin/dates
+RUN cp /bin/date /usr/local/bin/date && \
+    chmod 4755 /usr/local/bin/date
 
 RUN useradd -m user
 USER user
