@@ -1,9 +1,9 @@
 # Kazma-Linux-Course
-如果你喜歡這堂課程的話歡迎幫我按個 ⭐️⭐️⭐️
+如果你喜歡這堂課程的話歡迎按個 ⭐️⭐️⭐️
 
 ## Intro
 這堂課在 2024/10/19 的 SCIST 第一次上課，在成大同時進行實體課程兼線上直播。
-課程均為繁體中文，含實作時間共六小時左右，請各位如果搭配錄影學習課程務必動手實作❗️❗️❗️
+課程均為繁體中文，含實作時間共六小時左右，請各位如果搭配錄影學習，務必動手實作❗️❗️❗️
 
 ## Info 
 - 課程簡報
@@ -55,6 +55,6 @@
   - 練習使用 vim 撰寫一份 shell scripts 並將不同格式的壓縮檔解壓縮，並印出包含 flag 的檔案內容
 - lab-hashcat 
   - 此練習包含 `hashes1.txt` 和 `hashes2.txt`
-  - flag 為 flag{plain1_plain2}
+  - flag 為 `flag{plain1_plain2}`
   - 舉例：兩個檔案解密後如果各自得到 `cat` 和 `monkey`，flag 則為 flag{cat_monkey}
   - 請練習使用 linux 內建指令解開 hash 值，必要時搭配線上工具協助判斷 hash 的種類，並透過查看內建 manual 使用對應的指令
