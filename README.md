@@ -1,4 +1,5 @@
 # Kazma-Linux-Course
+aka 「絶対強者の殿堂へ：Linux 領域展開！」
 如果你喜歡這堂課程的話歡迎按個 ⭐️⭐️⭐️
 
 ## Intro
