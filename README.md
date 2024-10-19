@@ -7,7 +7,7 @@
 
 ## Info 
 - 課程簡報
-  - comming soon
+  - https://docs.google.com/presentation/d/1PfT7MbMMpR7RjJndKXmoArjM7TBcjHu7efyaMR7tcUY/edit?usp=sharing
 - 課程錄影
   - comming soon 
 - CTFd
@@ -59,3 +59,9 @@
   - flag 為 `flag{plain1_plain2}`
   - 舉例：兩個檔案解密後如果各自得到 `cat` 和 `monkey`，flag 則為 flag{cat_monkey}
   - 請練習使用 linux 內建指令解開 hash 值，必要時搭配線上工具協助判斷 hash 的種類，並透過查看內建 manual 使用對應的指令
+ 
+## HW Instructions
+- hw-boss
+  - 請試著利用不安全的權限設定，讀取在根目錄僅限超級使用者唯讀的 `flag.txt`
+- hm-bbooss
+  - 利用 Kali 的內建工具對網站進行分析，找到可能的攻擊面 
