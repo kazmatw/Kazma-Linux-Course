@@ -9,7 +9,7 @@ aka 「絶対強者の殿堂へ：Linux 領域展開！」
 
 ## Info 
 - [課程簡報](https://docs.google.com/presentation/d/1PfT7MbMMpR7RjJndKXmoArjM7TBcjHu7efyaMR7tcUY/edit?usp=sharing)
-- 課程錄影
+- [課程錄影](https://www.youtube.com/watch?v=1oV5tCH5raY)
   - comming soon 
 - [CTFd](https://linux.ctf.scist.org)
 - 課程大綱
